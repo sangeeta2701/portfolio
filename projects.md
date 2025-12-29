@@ -6,11 +6,9 @@ title: Projects
 
 A curated selection of products and applications built across different domains, focusing on practical implementation, usability, and scalable architecture.
 
-<br/>
 
-## Featured Applications
+### Featured Applications
 
----
 
 ## Closette  
 **Wardrobe & Outfit Management Application**  
