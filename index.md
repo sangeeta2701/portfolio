@@ -94,7 +94,7 @@ hero:
 If you are looking for a dedicated **Software Engineer** experienced in building scalable mobile applications with **Flutter**, **React Native**, and **Firebase**, I would be glad to connect.  
 I am open to opportunities in **mobile development**, **product engineering**, and **tech leadership** roles.
 
-📩 **Email:** <sangeetagupta2701@gmail.com>  
+📩 **Email:** <sangeeta.gupta.dev@gmail.com>  
 🔗 **LinkedIn:** https://www.linkedin.com/in/sangeeta-gupta-074123214/  
 💼 **GitHub:** https://github.com/sangeeta2701
 
