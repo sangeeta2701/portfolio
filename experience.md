@@ -1,119 +1,168 @@
----
-title: Experience
----
-
 # Experience
 
-<br/>
+## Professional Summary {style="color:"#0460c9" ; font-size:28px; margin-top:40px;"}
 
-### Skills Overview  
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+I am a **Software Engineer** with experience delivering scalable **mobile applications** across **healthcare**, **fitness**, **lifestyle**, and **e-commerce** domains. I focus on **clean architecture**, **state-managed feature development**, **REST API integrations**, and **Firebase-based backend workflows** to build reliable and maintainable products.
 
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Flutter</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Dart</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Firebase (Auth, DB, Storage)</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">REST API Integration</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Android Development</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">State Management (Provider)</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Git & Collaboration</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">App Publishing (Play Store)</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Manual Testing</span>
-<span style="background:#f3f4f6;padding:6px 12px;border-radius:20px;font-size:14px;">Project Documentation</span>
+I have worked in both **product-based** and **client-focused** environments, contributing to the full development lifecycle including **UI engineering**, **API integration**, **testing**, **deployment**, and **Play Store releases**.
 
-</div>
+As a **Senior Engineer**, I collaborate with cross-functional teams, **mentor junior developers**, and take ownership of product modules to ensure **engineering quality**, **performance optimization**, and timely delivery within **agile development** practices.
 
-<br/>
-<br/>
+## Senior Software Engineer
 
----
-
-## Senior Software Engineer  
 **Jayprita Consulting Pvt Ltd (Pravaah Consulting Inc)** — Bangalore, India  
 **October 2024 — Present**
 
-**Key Responsibilities**
-- Developing and maintaining Flutter-based mobile applications aligned with client and product requirements.
-- Building UI and feature modules with a focus on clean architecture and smooth user experience.
-- Integrating REST APIs for authentication, data handling, and automated features.
-- Using Firebase (Authentication, Database, Storage) to structure scalable backend implementation.
-- Preparing builds and managing release cycles, including Play Store deployment.
-- Conducting code reviews, collaborating within Agile teams, and managing development roadmaps.
+### Achievements
 
-**Core Tech Stack**
-Flutter · Dart · REST APIs · Firebase · Git · Play Store Release
+- **Certificate of Excellence — "The Best Team Player"** for outstanding ownership, collaboration, and development contributions.
+
+### Responsibilities
+
+- Leading Flutter development for scalable production-grade mobile applications.
+- Designing architecture workflows, reusable components, and state-managed modules.
+- Integrating REST APIs, Firebase services, and external SDKs for app enhancement.
+- Collaborating with cross-functional teams and managing project delivery timelines.
+- Conducting code reviews, mentoring junior developers, and managing module ownership.
+- Coordinating build releases and Play Store publication cycles.
+
+**Core Tech Stack:**  
+**Flutter · Dart · Firebase · REST APIs · Provider · Git · Figma · Play Store Release · Bluetooth SDK · React Native**
 
 ---
 
-## Junior Software Engineer  
+### Project Contributions
+
+| Project                            | Domain / Purpose                                        | Responsibilities                                                                                  | Tech                                                  |
+| ---------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| myBioMtrx                          | Health & Body Composition Tracking                      | Bluetooth smart-scale integration, analytics screens, dashboard UI, secure health data management | Flutter, Firebase, REST APIs, Bluetooth SDK, Provider |
+| Kio Yamato Eyewear App             | Premium Eyewear E-Commerce & Business Partnership       | Product catalog UI, B2B partner onboarding, state management, cart & inquiry flows                | Flutter, Firebase, Provider, REST APIs                |
+| Muzyfy                             | Personalized Music Creation & Story-Based Song Requests | UX flow creation, request submission engine, API integration, validation screens                  | Flutter, Firebase, API Integration                    |
+| Bleu Capital Ticketing (Admin App) | Event Ticketing                                         | Dynamic ticket logic, admin panel, role-based access, operations tools, donations module          | Flutter, REST APIs, Firebase, Provider                |
+
+---
+
+---
+
+## Junior Software Engineer
+
 **Health Win Private Limited (Formerly HR Global)** — Bangalore, India  
 **December 2022 — October 2024**
 
-**Key Responsibilities**
-- Built feature-specific modules for mobile applications using Flutter and Dart.
-- Converted UI/UX designs to responsive interfaces ensuring performance across devices.
-- Collaborated with backend API teams, validating endpoints and integration flows.
-- Configured Firebase services and implemented real-time database operations.
-- Performed manual testing, authored FRD and BRD documents, and created detailed test cases.
-- Actively participated in sprint planning, testing cycles, bug reporting, and release validation.
+**Responsibilities**
 
-**Product Contributions**
+- Developed UI screens and integrated Firebase & REST APIs into app flows.
+- Ensured consistent UI/UX with responsive layouts across Android devices.
+- Conducted manual testing, FRD/BRD documentation, and test case creation.
+- Participated in sprint planning, bug reporting, and release sign-offs.
+- Built projects across healthcare, fitness, and lifestyle domains.
+
+**Project Contributions**
 | Project | Domain | Responsibilities | Tech |
 |---------|---------|------------------|------|
 | MomFirst App | Maternity & Health | UI, API Integration, Testing | Flutter, Firebase |
 | Pelvic Health Web App | Healthcare | UI Engineering, Integration | Flutter (Web), Firebase |
-| BridalBliss Website | Lifestyle & Events | Website Design, Plugin Automations | WordPress |
+| BridalBliss Website | Lifestyle | WordPress Automation & Workflow | WordPress |
 | FitMom User App | Fitness | Feature Development | Flutter |
-| Crafted Pilates App UI | Studio & Fitness | UI Design + Prototype | Flutter |
+| Crafted Pilates UI | Fitness Studio | UI Wireframes & Implementation | Flutter |
 
 ---
 
-# Projects
+## Mobile Application Developer — Internship
 
-### Closette — Wardrobe & Outfit Planning (Play Store)
-Organizing wardrobe items, creating outfits, and assisting daily dressing decisions.  
-**Tech:** Flutter, Dart, Firebase, REST APIs  
-**Status:** Live on Play Store
+**The Redx Technologies** — Remote  
+**September 2022 — December 2022 (4 Months)**
 
----
+During this internship, I worked as a Mobile Application Developer contributing directly to live app modules.
 
-### Vegi — Grocery Management App
-Product list management, search filters, real-time inventory, and cart operations.  
-**Tech:** Flutter, Firebase Realtime Database, Provider  
-**Status:** Open Source (GitHub)
+**Responsibilities**
 
----
+- Developed UI screens and ensured layout consistency for user flows.
+- Debugged and resolved issues in existing code to improve performance.
+- Integrated third-party APIs and streamlined data communication across modules.
+- Wrote unit tests to validate functionality and ensure robust feature delivery.
 
-### E-Commerce App
-Product categories, filters, dynamic cart pricing, and favorites management.  
-**Tech:** Flutter, Provider State Management  
-**Status:** Open Source (GitHub)
+This internship helped build foundational experience in Flutter, preparing me for my first full-time role.
 
 ---
-
 
 # Links & Profiles
 
 - LinkedIn: https://www.linkedin.com/in/sangeeta-gupta-074123214/
 - GitHub: https://github.com/sangeeta2701
-- Portfolio Projects: https://play.google.com/store/apps/details?id=my.app.new_closet_app
 
 ---
 
+<!-- <style>
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px 14px; /* horizontal & vertical spacing */
+  padding: 16px 0;
+}
+
+.skill-pill {
+  background: var(--vp-c-bg-soft);
+  padding: 8px 14px;
+  border-radius: 24px;
+  font-size: 15px;
+  border: 1px solid var(--vp-c-border);
+  color: var(--vp-c-text-1);
+  display: inline-block;
+  white-space: nowrap;
+  line-height: 1.4;
+  margin: 5px;
+}
+
+/* Hover state */
+.skill-pill:hover {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand);
+  border-color: var(--vp-c-brand);
+}
+
+/* Dark Mode Fix */
+.dark .skill-pill {
+  background: #1e1e1e;
+  color: #ffffff;
+  border-color: #444;
+}
+</style> -->
+
 <style>
-h1, h2, h3 { 
-  border-bottom: 1px solid #e5e7eb; 
-  padding-bottom: 6px; 
+.skill-category {
+  margin-bottom: 30px;
 }
-table {
-  font-size: 0.95rem;
-  width: 100%;
-  border-collapse: collapse;
+.skill-category h4 {
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  border-left: 4px solid var(--vp-c-brand);
+  padding-left: 10px;
 }
-table tr:nth-child(even) {
-  background: #f9fafb;
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 8px 0;
 }
-td, th {
-  padding: 8px 6px;
-  border-bottom: 1px solid #e5e7eb;
+.skill-pill {
+  background: var(--vp-c-bg-soft);
+  padding: 8px 14px;
+  border-radius: 24px;
+  font-size: 14px;
+  border: 1px solid var(--vp-c-border);
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+}
+.skill-pill:hover {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand);
+  border-color: var(--vp-c-brand);
+}
+.dark .skill-pill {
+  background: #1e1e1e;
+  color: #ffffff;
+  border-color: #444;
 }
 </style>
