@@ -1,0 +1,11 @@
+/* Custom dark button for hero actions */
+.hero-actions .vp-button.dark {
+  background-color: #1a1a1a; /* Dark background */
+  color: #ffffff;            /* White text */
+  border: 1px solid #444;    /* Optional border */
+  transition: background-color 0.3s ease;
+}
+
+.hero-actions .vp-button.dark:hover {
+  background-color: #333333; /* Slightly lighter on hover */
+}

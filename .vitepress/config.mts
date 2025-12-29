@@ -1,31 +1,36 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Sangeeta Gupta",
   description: "A VitePress Site",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
-  { text: 'Experience', link: '/experience' },
-  { text: 'Projects', link: '/projects' }
-
-    ],
-
-    sidebar: [
+      { text: "Home", link: "/" },
+      { text: "Experience", link: "/experience" },
+      { text: "Projects", link: "/projects" },
       {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+        text: "Download Resume",
+        link: "/resume.pdf",
+        target: "_blank", // opens in new tab
+      },
     ],
+
+    // sidebar: [
+    //   {
+    //     text: 'Examples',
+    //     items: [
+    //       { text: 'Markdown Examples', link: '/markdown-examples' },
+    //       { text: 'Runtime API Examples', link: '/api-examples' }
+    //     ]
+    //   }
+    // ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+      { icon: "github", link: "https://github.com/sangeeta2701" },
+      {
+        icon: "linkedin",
+        link: "https://www.linkedin.com/in/sangeeta-gupta-074123214/",
+      },
+    ],
+  },
+});
