@@ -9,3 +9,12 @@
 .hero-actions .vp-button.dark:hover {
   background-color: #333333; /* Slightly lighter on hover */
 }
+
+.VPHero .image img {
+  border-radius: 50%;
+  width: 1000px;
+  height: 1000px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.18);
+  margin-left: 8rem;
+}

@@ -8,6 +8,9 @@ hero:
   text: "Software Engineer"
 
   tagline: "Specialized in Flutter, Firebase, React Native, and building scalable mobile applications with leadership in engineering teams."
+  image:
+    src: /profile.png
+    alt: "Sangeeta Gupta"
   actions:
     - theme: brand
       text: View Experience
@@ -15,7 +18,7 @@ hero:
     - theme: alt
       text: Explore Projects
       link: /projects
-    # - theme: dark   
+    # - theme: dark
     #   text: Download Resume
     #   link: /resume.pdf
     #   target: _blank
@@ -87,7 +90,29 @@ hero:
   </div>
 </div>
 
----
+## Testimonials & Feedback
+
+<div class="testimonial-wrapper">
+
+  <div class="testimonial-card">
+    <p>⭐️⭐️⭐️⭐️⭐️</p>
+    <p>Received direct client appreciation for successfully integrating the BLE SDK into the mobile application and accurately fetching device data in real time. Additionally, delivered a fully functional dynamic admin web application that enables seamless user report monitoring. The project was acknowledged for its reliability, data accuracy, and smooth end-to-end execution</p>
+    <h4>- Client(Ashok Shah), myBioMtrx Project</h4>
+  </div>
+
+  <div class="testimonial-card">
+    <p>⭐️⭐️⭐️⭐️⭐️</p>
+    <p>Earned client recognition for completing the application ahead of the agreed timeline, along with implementing all requested enhancements and improvements. The client expressed high satisfaction with the delivery quality, responsiveness to change requests, and ability to exceed expectations.</p>
+    <h4>- Client(Joon Kim), Kio Yamato Project</h4>
+  </div>
+
+  <div class="testimonial-card">
+    <p>⭐️⭐️⭐️⭐️⭐️</p>
+    <p>Appreciated by the company CEO for independently leading and delivering the entire web application, from development to hosting, before the project deadline. Recognized for achieving a polished and intuitive UI/UX, smooth functionality, and consistency in meeting all business and user requirements without escalation.</p>
+    <h4>- CEO(Jasper David), MomFirst Project</h4>
+  </div>
+
+</div>
 
 ## Interested in Working Together?
 
@@ -99,7 +124,8 @@ I am open to opportunities in **mobile development**, **product engineering**, a
 💼 **GitHub:** https://github.com/sangeeta2701
 
 <div style="margin-top:20px;">
-  <a href="mailto:sangeetagupta2701@gmail.com"
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sangeeta.gupta.dev@gmail.com"
+  target="_blank"
      style="
        background:#4F46E5;
        color:white;
@@ -112,25 +138,6 @@ I am open to opportunities in **mobile development**, **product engineering**, a
       Contact for Opportunities
   </a>
 </div>
-
-<!-- features:
-  - title: Mobile Development
-    details: Building scalable applications using Flutter, Dart, and React Native with clean architecture, reusable widgets, and platform-specific performance optimization for production environments.
-
-  - title: Backend & Cloud Integration
-    details: Implementing Firebase services including Authentication, Realtime Database, and Cloud Storage along with REST API integrations, data pipelines, error handling, and automated backend-driven features.
-
-  - title: Engineering Processes
-    details: Driving agile workflows with sprint planning, requirement analysis, documentation (FRD/BRD), test case preparation, release validation, and quality assurance aligned with product goals.
-
-  - title: Tools & Technology Stack
-    details: Working with VS Code, Android Studio, Jira, GitHub Collaboration, Postman, Figma handoff workflows, version control practices, dependency management, and build optimization.
-
-  - title: UI/UX Engineering
-    details: Translating Figma designs to responsive UI, maintaining consistency in typography and spacing, ensuring accessibility, and improving user journeys for usability, performance, and visual clarity.
-
-  - title: Team Leadership & Collaboration
-    details: Leading development efforts as a Senior Software Engineer by mentoring junior developers, managing module ownership, collaborating across teams, ensuring timely delivery, and maintaining cross-functional communication. -->
 
 ---
 
@@ -168,5 +175,37 @@ I am open to opportunities in **mobile development**, **product engineering**, a
 .dark .skill-pill {
   background: #1e1e1e;
   border-color: #444;
+}
+.testimonial-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.testimonial-card {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.testimonial-card p {
+  margin: 8px 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.testimonial-card h4 {
+  margin-top: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vp-c-brand);
 }
 </style>
